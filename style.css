@@ -1,0 +1,29 @@
+h1{
+	color: red;
+	background-color: yellow;
+	text-align: center;
+	font-size: 20px;
+}
+
+h2,h3,h4{
+	color: green;
+	background-color: orange;
+}
+.myclass{
+	text-decoration: underline;
+	text-transform: uppercase;
+}
+#myid{
+	color: lightgray;
+	background-color: black;
+}
+h5.test{
+	text-shadow: 5px 5px red;
+}
+.myclass p{
+	text-shadow: 5px 5px red;
+}
+.mycolor{
+	color: pink;
+	background-color: blue;
+}
